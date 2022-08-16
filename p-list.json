@@ -1,0 +1,296 @@
+[{
+		"categoryName": "🔃 Decentralized Exchanges",
+		"categoryDesc": "Decentralized exchanges, also known as DEXs, are peer-to-peer marketplaces where cryptocurrency traders make transactions directly without handing over management of their funds to an intermediary or custodian. These transactions are facilitated through the use of smart contracts",
+		"platforms": [{
+				"title": "Doge Swap",
+				"url": "https://dogeswap.org/#/swap",
+				"description": "DogeSwap is in public beta, there are no security audit at this stage.",
+				"img":"https://i.ibb.co/1b2tH54/Doge-Swap-Logo.png",
+				"socials": [{
+						"name": "telegram",
+						"url": "https://t.me/+6eGjC6hMjf5iYWIy"
+					},
+					{
+						"name": "github",
+						"url": "https://github.com/dogeswap-org"
+					}
+				]
+			},
+			{
+				"title": "Doge Shrek",
+				"url": "https://dogeshrek.com/#/swap",
+				"description": "DogeShrek is a native Decentralized Exchange on Dogechain Network.",
+				"img" : "https://i.ibb.co/QbRG2rM/Doge-Shrek-Logo.png",
+				"socials": [{
+						"name": "telegram group",
+						"url": "https://t.me/dogeshrekchat"
+					},
+					{
+						"name": "telegram channel",
+						"url": "https://t.me/dogeshrek"
+					},
+					{
+						"name": "twitter",
+						"url": "https://twitter.com/dogeshrek"
+					}
+				]
+			}
+		]
+	},
+	{
+		"categoryName": "💰 Staking Platforms",
+		"categoryDesc": "Process of locking up crypto holdings in order to obtain rewards or earn interest. Cryptocurrencies are built with blockchain technology, in which crypto transactions are verified, and the resulting data is stored on the blockchain.",
+		"platforms": []
+	},
+	{
+		"categoryName": "🔎 Blockchain And Market Explorers",
+		"categoryDesc": "",
+		"platforms": [{
+			"title": "Official Dogechain Explorer",
+			"url": "https://explorer.dogechain.dog",
+			"description": "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks.",
+			"img" : "https://i.ibb.co/D8z8SJp/Dogechain-Logo.png",
+			"socials": [{
+				"name": "twitter",
+				"url": "https://twitter.com/dogechainfamily"
+			},
+			{
+				"name": "telegram",
+				"url": "https://t.me/DogeChainOfficial"
+			},
+			{
+				"name": "discord",
+				"url": "https://discord.com/invite/e9TQwwmF79"
+			},
+			{
+				"name": "reddit",
+				"url": "https://www.reddit.com/r/DogeChainOfficial/"
+			}]
+		}]
+	},
+	{
+		"categoryName": "🚀 IDO Platforms",
+		"categoryDesc": "An IDO (initial DEX offering) is a platform for crowdfunding for any new project launched on a decentralized exchange platform using coins or tokens. ",
+		"platforms": [{
+			"title": "Only Moons",
+			"url": "https://onlymoons.io/",
+			"description": "A community driven launchpad.",
+			"img" : "https://i.ibb.co/k9HL4Jw/Only-Moons-Logo.png",
+			"socials": [{
+				"name": "telegram",
+				"url": "https://t.me/OnlyMoonsTeam"
+			},
+			{
+				"name": "discord",
+				"url": "https://discord.gg/E8hXdpKenM"
+			},
+			{
+				"name": "twitter",
+				"url": "https://twitter.com/OnlyMoonsTeam"
+			},
+			{
+				"name": "twitch",
+				"url": "https://www.twitch.tv/onlymoonsofficial"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/onlymoonsteam/"
+			},
+			{
+				"name": "reddit",
+				"url": "https://www.reddit.com/r/OnlyMoonsCommunity/"
+			}
+		]
+		}]
+	},
+	{
+		"categoryName": "🎮 Games",
+		"categoryDesc": "Smart contracts allow developers to regulate their gaming economies by setting specific predefined conditions to control trading.",
+		"platforms": []
+	},
+	{
+		"categoryName": "👛 Wallets",
+		"categoryDesc": "Crypto wallets keep your private keys – the passwords that give you access to your cryptocurrencies – safe and accessible, allowing you to send and receive cryptocurrencies. They come in many forms.",
+		"platforms": [{
+			"title": "Metamask - Dogechain EVM ONLY",
+			"url": "https://metamask.io/",
+			"description": "Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets. Secure way to connect to blockchain-based applications. You are always in control when interacting on the new decentralized web.",
+			"img" : "https://avatars.githubusercontent.com/u/11744586?s=200&v=4",
+			"socials": [{
+				"name": "github",
+				"url": "https://github.com/MetaMask/metamask-extension/"
+			},
+			{
+				"name" : "twitter",
+				"url" : "https://twitter.com/metamask"
+			}
+		]
+		}]
+	},
+	{
+		"categoryName": "📊 Info & Statistics",
+		"categoryDesc": "",
+		"platforms": [{
+			"title": "Dex Screener",
+			"url": "https://dexscreener.com/dogechain",
+			"description": "Tool that tracks onchain trading via Decnetralized Exchanges.",
+			"img" : "https://i.ibb.co/K7XVBpC/Dex-Screener-Logo.jpg",
+			"socials": [{
+				"name" :"twitter",
+				"url" : "https://mobile.twitter.com/dexscreener"
+			},
+			{
+				"name": "telegram",
+				"url": "https://telegram.me/dexscreenerchat"
+			}
+		]
+		}]
+	},
+	{
+		"categoryName": "⛓ Bridges",
+		"categoryDesc": "A blockchain bridge, otherwise known as a cross-chain bridge, connects two blockchains and allows users to send cryptocurrency from one chain to the other.",
+		"platforms": [{
+			"title": "Official Dogechain Bridge",
+			"url": "https://bridge.dogechain.dog/",
+			"description": "Move Dogecoin from Layer 1 to Dogechain EVM Layer 2.",
+			"img" : "https://i.ibb.co/D8z8SJp/Dogechain-Logo.png",
+			"socials": [{
+				"name": "twitter",
+				"url": "https://twitter.com/dogechainfamily"
+			},
+			{
+				"name": "telegram",
+				"url": "https://t.me/DogeChainOfficial"
+			},
+			{
+				"name": "discord",
+				"url": "https://discord.com/invite/e9TQwwmF79"
+			},
+			{
+				"name": "reddit",
+				"url": "https://www.reddit.com/r/DogeChainOfficial/"
+			}
+		]
+		},
+		{
+			"title": "Multichain",
+			"url": "https://multichain.xyz/",
+			"description": "Cross-Chain Router Protocol (CRP), envisioned to be the ultimate router for Web3.",
+			"img" : "https://i.ibb.co/MgLkHTy/Multi-Chain-Logo.png",
+			"socials": [{
+				"name": "twitter",
+				"url": "https://twitter.com/MultichainOrg"
+			},
+			{
+				"name": "medium",
+				"url": "https://medium.com/multichainorg"
+			},
+			{
+				"name": "telegram",
+				"url": "https://t.me/anyswap"
+			}
+		]
+		}
+	]
+	},
+	{
+		"categoryName": "👩‍💻 Development",
+		"categoryDesc": "",
+		"platforms": [{
+			"title": "Crypto Zombies",
+			"url": "https://cryptozombies.io/",
+			"description": "Learn to Code Blockchain DApps By Building Simple Games CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity by making your own crypto-collectibles game.",
+			"img" : "https://i.ibb.co/2WF8pvc/Crypto-Zoombies.png",
+			"socials": [{
+				"name": "github",
+				"url": "https://github.com/loomnetwork"
+			},
+			{
+				"name": "telegram",
+				"url": "https://t.me/loomnetwork"
+			}
+		]
+		},
+		{
+			"title": "Official Dogechain Docs",
+			"url": "https://docs.dogechain.dog/docs/overview",
+			"description": "",
+			"img" : "https://i.ibb.co/D8z8SJp/Dogechain-Logo.png",
+			"socials": [{
+				"name": "twitter",
+				"url": "https://twitter.com/dogechainfamily"
+			},
+			{
+				"name": "telegram",
+				"url": "https://t.me/DogeChainOfficial"
+			},
+			{
+				"name": "discord",
+				"url": "https://discord.com/invite/e9TQwwmF79"
+			},
+			{
+				"name": "reddit",
+				"url": "https://www.reddit.com/r/DogeChainOfficial/"
+			}]
+		}
+	]
+	},
+	{
+		"categoryName": "⚙ Apps & Tools",
+		"categoryDesc": "",
+		"platforms": [{
+			"title": "Vfat Tools",
+			"url": "https://explorer.dogechain.dog",
+			"description": "View all your DEX farming statistics and income.",
+			"img" : "https://i.ibb.co/ZSW62BB/vfat-Tools.png",
+			"socials": [{
+				"name": "twitter",
+				"url": "https://twitter.com/vfat0"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/vfat-tools/vfat-tools"
+			},
+			{
+				"name": "discord",
+				"url": "https://discord.com/invite/vfat"
+			}
+		]
+		}]
+	},
+	{
+		"categoryName": "👩‍🚀 Other Social Groups",
+		"categoryDesc": "",
+		"platforms": [{
+			"title": "Telegram",
+			"url": "https://telegram.org/",
+			"description": "",
+			"img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png",
+			"socials": [{
+				"name" :"Doge Chain Official",
+				"url" : "https://t.me/DogeChainOfficial"
+			},
+			{
+				"name": "Doge Chain Lounge",
+				"url": "https://t.me/dogechainlounge"
+			},
+			{
+				"name": "Doge Chain Apes",
+				"url": "https://t.me/dogechainapes"
+			}
+		]
+		},
+		{
+			"title": "Discord",
+			"url": "https://discord.com/",
+			"description": "",
+			"img" : "https://i.ibb.co/9WMmp0B/Discord-Logo.png",
+			"socials": [{
+				"name" :"Dogechain Sanctuary",
+				"url" : "https://discord.com/invite/e9TQwwmF79"
+			}
+		]
+		}
+	]
+	}
+]
