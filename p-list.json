@@ -34,6 +34,25 @@
 						"url": "https://twitter.com/dogeshrek"
 					}
 				]
+			},
+			{
+				"title": "Bourbon Defi",
+				"url": "https://dogefarm.bourbondefi.com/",
+				"description": "The finest WHISKEY now Multi-Chain.",
+				"img": "https://i.ibb.co/F3c09DW/bourbondefi.png",
+				"socials": [{
+						"name": "telegram",
+						"url": "https://t.me/BourbonDAO"
+					},
+					{
+						"name": "telegram channel",
+						"url": "https://t.me/dogeshrek"
+					},
+					{
+						"name": "twitter",
+						"url": "https://twitter.com/financebourbon"
+					}
+				]
 			}
 		]
 	},
