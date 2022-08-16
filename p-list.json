@@ -101,7 +101,28 @@
 				"url": "https://www.reddit.com/r/OnlyMoonsCommunity/"
 			}
 		]
-		}]
+		},
+		{
+			"title": "Panda Sale Finance",
+			"url": "https://pandasale.finance/?chain=DOGECHAIN",
+			"description": "Building the next generation Launchpad for EVM powered networks. ",
+			"img" : "https://i.ibb.co/nsWMsd0/Pandasale-Logo.jpg",
+			"socials": [{
+				"name": "telegram",
+				"url": "https://t.me/PandaEcosystem"
+			},
+			{
+				"name": "telegram CN",
+				"url": "https://t.me/PandaSaleCN"
+			},
+			
+			{
+				"name": "twitter",
+				"url": "https://twitter.com/Panda_Ecosystem"
+			}
+		]
+		}
+		]
 	},
 	{
 		"categoryName": "🎮 Games",
